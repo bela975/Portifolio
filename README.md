@@ -31,3 +31,7 @@ A hospedagem aceita domínio próprio, mas o domínio em si normalmente precisa 
 
 ## Importante
 O conteúdo inicial usa apenas informações já identificadas nas conversas e descrições públicas dos repositórios. Não inventa métricas nem resultados. Projetos sem material suficiente estão marcados para revisão.
+
+## Projeto Índigo
+- Página publicada e jogável: https://anathropos.itch.io/indigo
+- Repositório: https://github.com/bela975/IndigoJamMinas2024
