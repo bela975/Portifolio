@@ -1,37 +1,55 @@
-# Portfólio — Isabela Spinelli
+# Isabela Spinelli — Portfólio
 
-Site estático, responsivo e sem dependência de build. Pode ser publicado gratuitamente no Cloudflare Pages ou GitHub Pages.
+**Tecnologia com propósito. Automação, dados e inovação conectados a problemas reais.**
 
-## Antes de publicar
-1. Abra `index.html`.
-2. Substitua `SEU-EMAIL-AQUI` pelo seu e-mail em todos os pontos.
-3. Troque o link genérico do LinkedIn pelo seu perfil.
-4. Revise os cases marcados como "em construção" e adicione imagens reais em `assets/`.
-5. Confira a atribuição individual em projetos feitos em grupo.
+Bem-vindo(a) ao meu portfólio profissional! Este espaço reúne projetos acadêmicos, experiências práticas e iniciativas desenvolvidas ao longo da minha trajetória na tecnologia.
 
-## Publicar gratuitamente no Cloudflare Pages
-1. Crie um repositório público no GitHub (ex.: `portfolio`).
-2. Envie todos os arquivos desta pasta para a raiz do repositório.
-3. Crie uma conta gratuita no Cloudflare.
-4. Vá em **Workers & Pages → Create → Pages → Connect to Git**.
-5. Selecione o repositório.
-6. Framework preset: **None**. Build command: deixe vazio. Build output directory: `/` (ou `.` se a interface solicitar).
-7. Clique em Save and Deploy.
+Mais do que apresentar resultados, a proposta é compartilhar o raciocínio por trás de cada projeto: os problemas identificados, as soluções construídas, as decisões tomadas e os aprendizados adquiridos durante o processo.
 
-O endereço gratuito será algo como `portfolio-isabela.pages.dev`. Não é necessário cartão ou período de teste para a hospedagem estática no plano Free, observados os limites oficiais: https://developers.cloudflare.com/pages/platform/limits/
+🌐 **Acesse o portfólio:** [bela975.github.io/Portifolio](https://bela975.github.io/Portifolio/)
 
-## Domínio próprio
-A hospedagem aceita domínio próprio, mas o domínio em si normalmente precisa ser registrado e pago. Para manter custo zero, use o subdomínio `pages.dev`.
+---
 
-## Estrutura
-- `index.html`: conteúdo e cases
-- `styles.css`: identidade visual e responsividade
-- `script.js`: filtros de projetos
-- `assets/`: imagens e materiais a inserir
+## Sobre mim
 
-## Importante
-O conteúdo inicial usa apenas informações já identificadas nas conversas e descrições públicas dos repositórios. Não inventa métricas nem resultados. Projetos sem material suficiente estão marcados para revisão.
+Sou estudante da área de tecnologia e profissional em desenvolvimento na área de **RPA e automação de processos**, com interesse especial em conectar conhecimento técnico, visão estratégica e gestão.
 
-## Projeto Índigo
-- Página publicada e jogável: https://anathropos.itch.io/indigo
-- Repositório: https://github.com/bela975/IndigoJamMinas2024
+Acredito que a tecnologia gera mais valor quando é aplicada para simplificar processos, melhorar experiências e solucionar desafios concretos.
+
+Tenho interesse em áreas como:
+
+- Automação de processos e RPA;
+- Gestão de tecnologia e projetos;
+- Análise e engenharia de dados;
+- Arquitetura de soluções;
+- Inteligência artificial e cibersegurança;
+- Desenvolvimento de produtos e experiências digitais.
+
+Meu objetivo é construir uma trajetória que una uma boa base técnica à capacidade de compreender problemas, estruturar soluções e gerar resultados.
+
+## Projetos em destaque
+
+O portfólio reúne projetos de diferentes áreas e naturezas, incluindo:
+
+| Projeto | Área |
+|---|---|
+| ClimatizaRec | IoT, sistemas embarcados e soluções urbanas |
+| Índigo | Game development e narrativa interativa |
+| IDHM Brazilian Cities | Dados e análise de indicadores sociais |
+| PETracker / MarketPet | Tecnologia e soluções digitais |
+| HClass | Engenharia de software e gestão de requisitos |
+| Unloop | UX, impacto social e bem-estar digital |
+| Mabela Solutions | Arquitetura em nuvem e AWS |
+| PokeTeamGuess | Desenvolvimento de aplicações e APIs |
+| Pernas pra que te quero | Jogos digitais e valorização cultural |
+| Artificially Clever Pentesting | Pesquisa em IA e cibersegurança |
+
+Cada projeto apresenta seu próprio contexto, proposta, processo de desenvolvimento e tecnologias utilizadas.
+
+## Como os projetos são apresentados
+
+Os estudos de caso seguem uma estrutura que busca evidenciar não apenas o produto final, mas também o processo:
+
+1. **Contexto:** qual problema ou oportunidade motivou o projeto.
+2. **Objetivo:** o que a solução buscava alcançar.
+3. **Minha contribuição
